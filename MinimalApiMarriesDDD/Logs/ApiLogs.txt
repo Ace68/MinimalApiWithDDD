@@ -1,0 +1,66 @@
+2022-02-28 22:03:14.700 +01:00 [INF] Now listening on: https://localhost:7254
+2022-02-28 22:03:14.724 +01:00 [INF] Now listening on: http://localhost:5254
+2022-02-28 22:03:14.734 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-02-28 22:03:14.739 +01:00 [INF] Hosting environment: Development
+2022-02-28 22:03:14.743 +01:00 [INF] Content root path: C:\Sviluppo\MinimalApiWithDDD\MinimalApiMarriesDDD\MinimalApiMarriesDDD\
+2022-02-28 22:03:15.606 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/ - -
+2022-02-28 22:03:15.741 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/ - - - 301 0 - 139.9779ms
+2022-02-28 22:03:15.745 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/index.html - -
+2022-02-28 22:03:15.986 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/index.html - - - 200 - text/html;charset=utf-8 241.3311ms
+2022-02-28 22:03:15.990 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger-ui-standalone-preset.js - -
+2022-02-28 22:03:15.990 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger-ui-bundle.js - -
+2022-02-28 22:03:15.990 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger-ui.css - -
+2022-02-28 22:03:15.990 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - -
+2022-02-28 22:03:16.005 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - - - 200 11954 application/javascript;+charset=utf-8 15.0624ms
+2022-02-28 22:03:16.046 +01:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2022-02-28 22:03:16.046 +01:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2022-02-28 22:03:16.055 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger-ui-standalone-preset.js - - - 200 337162 application/javascript 65.7884ms
+2022-02-28 22:03:16.057 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger-ui.css - - - 200 143632 text/css 66.7948ms
+2022-02-28 22:03:16.059 +01:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2022-02-28 22:03:16.059 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger-ui-bundle.js - - - 200 1092889 application/javascript 69.8948ms
+2022-02-28 22:03:16.227 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/documentation/v1/documentation.json - -
+2022-02-28 22:03:16.247 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/documentation/v1/documentation.json - - - 200 - application/json;charset=utf-8 20.0383ms
+2022-02-28 22:03:16.313 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/favicon-32x32.png - -
+2022-02-28 22:03:16.314 +01:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2022-02-28 22:03:16.314 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/favicon-32x32.png - - - 200 628 image/png 0.5733ms
+2022-02-28 22:11:43.574 +01:00 [INF] Now listening on: https://localhost:7254
+2022-02-28 22:11:43.586 +01:00 [INF] Now listening on: http://localhost:5254
+2022-02-28 22:11:43.615 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-02-28 22:11:43.622 +01:00 [INF] Hosting environment: Development
+2022-02-28 22:11:43.624 +01:00 [INF] Content root path: C:\Sviluppo\MinimalApiWithDDD\MinimalApiMarriesDDD\MinimalApiMarriesDDD\
+2022-02-28 22:11:44.260 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/ - -
+2022-02-28 22:11:44.392 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/ - - - 301 0 - 135.4205ms
+2022-02-28 22:11:44.400 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/index.html - -
+2022-02-28 22:11:44.535 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/index.html - - - 200 - text/html;charset=utf-8 134.8212ms
+2022-02-28 22:11:44.539 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger-ui.css - -
+2022-02-28 22:11:44.539 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger-ui-standalone-preset.js - -
+2022-02-28 22:11:44.539 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger-ui-bundle.js - -
+2022-02-28 22:11:44.539 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - -
+2022-02-28 22:11:44.542 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - - - 200 11954 application/javascript;+charset=utf-8 2.8823ms
+2022-02-28 22:11:44.578 +01:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2022-02-28 22:11:44.578 +01:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2022-02-28 22:11:44.578 +01:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2022-02-28 22:11:44.578 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger-ui.css - - - 200 143632 text/css 39.7687ms
+2022-02-28 22:11:44.578 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger-ui-bundle.js - - - 200 1092889 application/javascript 39.8124ms
+2022-02-28 22:11:44.578 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger-ui-standalone-preset.js - - - 200 337162 application/javascript 39.6764ms
+2022-02-28 22:11:44.733 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/documentation/v1/documentation.json - -
+2022-02-28 22:11:44.811 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/documentation/v1/documentation.json - - - 200 - application/json;charset=utf-8 78.0797ms
+2022-02-28 22:11:49.834 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/v1/customers - -
+2022-02-28 22:11:49.856 +01:00 [INF] Executing endpoint 'HTTP: GET v1/customers'
+2022-02-28 22:11:49.857 +01:00 [INF] Executed endpoint 'HTTP: GET v1/customers'
+2022-02-28 22:11:49.857 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/v1/customers - - - 200 - text/plain;+charset=utf-8 22.6139ms
+2022-02-28 22:18:15.501 +01:00 [INF] Now listening on: https://localhost:7254
+2022-02-28 22:18:15.512 +01:00 [INF] Now listening on: http://localhost:5254
+2022-02-28 22:18:15.520 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-02-28 22:18:15.522 +01:00 [INF] Hosting environment: Development
+2022-02-28 22:18:15.523 +01:00 [INF] Content root path: C:\Sviluppo\MinimalApiWithDDD\MinimalApiMarriesDDD\MinimalApiMarriesDDD\
+2022-02-28 22:18:16.252 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/index.html - -
+2022-02-28 22:18:16.539 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - -
+2022-02-28 22:18:16.539 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/index.html - - - 200 - text/html;charset=utf-8 290.1314ms
+2022-02-28 22:18:16.551 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - - - 200 11954 application/javascript;+charset=utf-8 11.8084ms
+2022-02-28 22:18:16.736 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/documentation/v1/documentation.json - -
+2022-02-28 22:18:16.808 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/documentation/v1/documentation.json - - - 200 - application/json;charset=utf-8 71.4819ms
+2022-02-28 22:18:23.504 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/v1/orders - -
+2022-02-28 22:18:23.521 +01:00 [INF] Executing endpoint 'HTTP: GET v1/orders'
+2022-02-28 22:18:23.522 +01:00 [INF] Executed endpoint 'HTTP: GET v1/orders'
+2022-02-28 22:18:23.522 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/v1/orders - - - 200 - text/plain;+charset=utf-8 18.1262ms

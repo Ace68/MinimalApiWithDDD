@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "17089cff-15af-4a23-8540-bddff4e01cb3": {
+      "ProjectGuid": "17089cff-15af-4a23-8540-bddff4e01cb3",
+      "DisplayName": "MinimalApiMarriesDDD",
+      "ColorIndex": 0
+    },
+    "9cba8bbd-fb3b-4a83-985f-ef9515d84e6d": {
+      "ProjectGuid": "9cba8bbd-fb3b-4a83-985f-ef9515d84e6d",
+      "DisplayName": "MinimalApiMarriesDDD.Modules.Customers",
+      "ColorIndex": 1
+    },
+    "728499b6-68f4-469b-8207-dd24e80b4603": {
+      "ProjectGuid": "728499b6-68f4-469b-8207-dd24e80b4603",
+      "DisplayName": "MinimalApiMarriesDDD.Modules.Customers.Shared",
+      "ColorIndex": 2
+    },
+    "be5c6d60-aa18-42c9-a050-2fc3d3ddbdd1": {
+      "ProjectGuid": "be5c6d60-aa18-42c9-a050-2fc3d3ddbdd1",
+      "DisplayName": "MinimalApiMarriesDDD.Modules.Orders",
+      "ColorIndex": 3
+    },
+    "673e3c87-6c50-491d-abf9-798feec8ed40": {
+      "ProjectGuid": "673e3c87-6c50-491d-abf9-798feec8ed40",
+      "DisplayName": "MinimalApiMarriesDDD.Modules.Orders.Shared",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
